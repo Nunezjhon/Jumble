@@ -1,4 +1,4 @@
-<h4>Created by: Jhon Nunez </h4>
+<h2>Created by: Jhon Nunez </h2>
 <h3>University of Illinois at Chicago </h3>
 
 <h3>To run this program:</h3>
