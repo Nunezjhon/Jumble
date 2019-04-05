@@ -1,13 +1,13 @@
-Created by: Jhon Nunez
-University of Illinois at Chicago 
+<h4>Created by: Jhon Nunez </h4>
+<h3>University of Illinois at Chicago </h3>
 
-To run this program:
+<h3>To run this program:</h3>
 
  1. make jumble.cpp dictionary-small 
  2. run ./jumble
  3. you can also make jumble.cpp using dictionary-big
 
-SUMMARY
+<h3>SUMMARY </h3>
 
 In this project you will use a clever application of hash tables to 
 solve "word jumble" puzzles.  You have probably seen these puzzles 
@@ -22,7 +22,7 @@ I.	The user does one of the following:
 
 II.	If the user enters a string (1a above), a list of all English words in the given dictionary that are rearrangements 
 	(anagrams) of the user input.  The list can appear in any order.  If there are no such English words, 
-	the program reports ìno matches.î  The user is then prompted for another input.
+	the program reports ‚Äúno matches.‚Äù  The user is then prompted for another input.
 
 III.	When the user terminates the interactive loop (1b above), the program produces a report with 
 	the following information and then the program terminates:
